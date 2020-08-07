@@ -6,3 +6,4 @@ Created function main() with return type void
 
 Then printed Hello World using printf()
 
+"\n" is used for newline character
